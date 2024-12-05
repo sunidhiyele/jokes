@@ -1,2 +1,2 @@
 # Jokes
-Generates random jokes
+Generates random jokes.
